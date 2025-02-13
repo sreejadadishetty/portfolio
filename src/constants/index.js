@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
 import project6 from "../assets/projects/project-6.png";
 import project7 from "../assets/projects/project-7.png";
-import project9 from "../assets/projects/project-9.png";
+import project9 from "../assets/projects/Project-9.png";
 export const HERO_CONTENT = `I am a dedicated software engineer with extensive experience in full-stack development, specializing in designing efficient, scalable, and user-focused applications. Throughout my career, I have worked on enhancing system performance, building robust microservices architectures, and delivering seamless user experiences. I have strong proficiency in technologies such as Spring Boot, React, Docker, Kubernetes, and SQL, along with expertise in tools like Jenkins, Prometheus, Grafana, and Kafka. My ultimate goal is to grow as a versatile developer and contribute to impactful, innovative projects that address complex challenges.`;
 
 export const edu_name = `University of Central Floriada`;
